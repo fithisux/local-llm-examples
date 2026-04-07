@@ -1,0 +1,6 @@
+langchain-text-splitters
+typesense
+tqdm
+langchain 
+langchain-openai
+weaviate-client

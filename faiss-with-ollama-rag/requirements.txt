@@ -1,0 +1,11 @@
+# llama_index
+# llama-index-embeddings-huggingface
+# llama-index-llms-llama-cpp
+# huggingface-hub
+faiss-cpu 
+pypdf 
+langchain 
+langchain-core 
+langchain-community
+langchain-huggingface
+langchain-ollama

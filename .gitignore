@@ -1,0 +1,4 @@
+faiss-with-ollama-rag/*.pdf
+rag-with-vectordbs/compass_documents/
+rag-with-vectordbs/typesense_data/
+rag-with-vectordbs/volumes/
