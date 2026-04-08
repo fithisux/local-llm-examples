@@ -34,7 +34,7 @@ python -m ensure pip
 
 ```
 
-Given you have jupyter in system python
+Given you have Jupyterlab in your system python, through your virtual environment anounce it as a kernel to Jupyterlab.
 
 ```
 python -m pip install ipykernel
