@@ -7,6 +7,12 @@ There are two classes of examples.
 1. Local LLM with FAISS and OLLAMA [here](faiss-with-ollama-rag)
 2. Local LLM with Weaviate or Typesense [here](rag-with-vectordbs)
 
+It is suggested to do your learning process as follows
+
+a. FAISS lesson
+b. Typesense lesson
+c. Weaviate lesson
+
 
 ## How to use it
 

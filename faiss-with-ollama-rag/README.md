@@ -6,11 +6,11 @@ We will use **gemma:2b** for natural language answers and *nomic-ai/nomic-embed-
 # Model load
 
 Install from [requirements.txt](./requirements.txt)
-
-You also need to load **gemma:2b** in ollama, whhich is assumed to be installed on you PC or your Podman install.
+We assume that you have installed locally **ollama**. Under Windows it is just a **scoop** away or through **UnigetUI**.
+You also need to load **tomng/lfm2.5-instruct:latest** in ollama, whhich is assumed to be installed on you PC or your Podman install.
 
 ```
-ollama pull gemma:2b
+ollama pull tomng/lfm2.5-instruct:latest
 
 ```
 
@@ -25,4 +25,4 @@ python -m pip install -r requirements.txt
 
 ```
 
-Now you can use venv314 kernel to run the [ollama-gemma.ipynb](ollama-gemma.ipynb).
+Now you can use venv314 kernel to run the [lesson.ipynb](lesson.ipynb).
