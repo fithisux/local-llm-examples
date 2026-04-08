@@ -4,14 +4,14 @@
 
 There are two classes of examples.
 
-1. Local LLM with FAISS and OLLAMA [here](faiss-with-ollama-rag)
-2. Local LLM with Weaviate or Typesense [here](rag-with-vectordbs)
+* Local LLM with FAISS and OLLAMA [here](faiss-with-ollama-rag)
+* Local LLM with Weaviate or Typesense [here](rag-with-vectordbs)
 
 It is suggested to do your learning process as follows
 
-a. FAISS lesson
-b. Typesense lesson
-c. Weaviate lesson
+1. FAISS lesson
+2. Typesense lesson
+3. Weaviate lesson
 
 
 ## How to use it
